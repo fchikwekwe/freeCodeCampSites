@@ -1,0 +1,102 @@
+<style>
+h1, body {
+  background-color: rgb(230, 204, 255); 
+}
+h1, h2, h3 {
+  font-family: Poppins, sans-serif; 
+}
+h1, h2 {
+  text-align: center; 
+  vw: 60vw; 
+}
+
+#img-div {
+  background-color: rgb(242, 230, 255);
+  height: auto;
+}
+#image {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin-left: auto; 
+  margin-right: auto;
+
+  padding-top: 25px; 
+}
+p, ul {
+  font-family: PT Sans, sans-serif; 
+}
+ul {
+  font-size: 14px;
+}
+#quote {
+  font-style: italic; 
+}
+p {
+  font-size: 18px; 
+  text-align: center; 
+}
+#more-info {
+  font-weight: bold; 
+}
+#img-caption {
+  text-align: center; 
+  font-weight: bold; 
+}
+#list {
+  margin-left: auto; 
+  margin-right: auto; 
+}
+h3, ul {
+  font-weight: bold; 
+  display: table;
+  margin: auto; 
+}
+<style>
+
+
+<html>
+ <link href="https://fonts.googleapis.com/css?family=Poppins " rel="stylesheet" type="text/css">
+ <link href="https://fonts.googleapis.com/css?family=PT+Sans" rel="stylesheet" type="text/css">
+  
+  <main id="main">
+    <head>
+      <div id="title-subtitle">
+      <h1 id="title">
+        Ipeleng Chikwekwe: Beauty, Strength and Self-Sacrifice
+      </h1>
+    </head>
+    <body>
+      <h2>
+        Mother. Provider. Caregiver.
+      </h2>
+      </div>
+      <div id="img-div">
+      <img id="image" src="https://preview.ibb.co/fOZW7o/baby_1150109_1920.jpg" alt="Couple with baby's feet in their hands">
+        <p id="img-caption">
+          A mother loves in many ways. We are thankful to have someone so kind, caring and faithful. 
+        </p>
+      </div>
+      <div id="tribute-info">
+      <h3>
+        A poem, from the heart of Ipeleng's loved ones: 
+      </h3>
+        <div id="list">
+        <ul>
+          <li>Many times we feel alone, but there is always a hand to hold.</li>
+          <li>Only you are always there. We thank you for your loving care.</li>
+          <li>Through the years, we grown and changed.</li>
+          <li>How we've grown and how we've changed.</li>
+          <li>Every year, we feel more blessed. Mother dear, you are the best!</li>
+          <li>Right before this poem is through, we your children say to you:</li>
+          <br>
+          <li>"Without guidance and love where would we be.</li>
+          <li>You're our intelligence, strength and beauty."</li>
+        </ul>
+        </div>
+        <p id="quote">"A mother is she who can take the place of all others but whose place no one else can take." <br> - Cardinal Meymillod"</p>
+        <p id="more-info">Ipeleng Chikwekwe is from Botswana. If you would like to <a id="tribute-link" href="https://en.wikipedia.org/wiki/Botswana" target="_blank">know more about her home country</a>, then follow the preceding link.</p>
+      </div>
+    </body>
+  </main>
+</html>
